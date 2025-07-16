@@ -13,17 +13,6 @@ This is a professional, real-world SQL Data Analytics project built using an inv
 
 ---
 
-## 🎯 Target Audience
-
-This project is ideal for:
-
-- 📊 Aspiring or entry-level **Data Analysts**
-- 💼 Candidates applying to **retail**, **e-commerce**, or **product analyst** roles
-- 🎓 Learners looking to strengthen their **SQL and business analysis skills**
-- 👔 Professionals wanting to build top-tier **GitHub portfolio projects**
-
----
-
 ## 🧠 Project Objectives
 
 The aim is to simulate the end-to-end process that data analysts perform in real-world scenarios:
