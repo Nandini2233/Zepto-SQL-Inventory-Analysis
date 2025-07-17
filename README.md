@@ -139,17 +139,7 @@ WITH (FORMAT csv, HEADER true, DELIMITER ',', QUOTE '"', ENCODING 'UTF8');
 
 ### ✅ Conclusion
 
-Through this project, I simulated a real-world inventory analytics scenario using Zepto’s e-commerce dataset. From importing and cleaning raw CSV data in pgAdmin 4 to uncovering actionable business insights, the entire process was structured to reflect how data analysts work in production environments.
+Through this analysis, we uncovered valuable insights into Zepto’s inventory. We identified the most discounted products, top-value categories, high-MRP out-of-stock items, and estimated potential revenue by category. Additionally, we highlighted price-per-gram trends and inventory distribution based on weight—enabling smarter inventory and pricing strategies.
 
-Key takeaways include:
 
-- A robust data cleaning process can greatly improve interpretability and insight quality.
-- Business-critical patterns such as stockouts, pricing inefficiencies, and inventory weight distribution were uncovered.
-- Custom metrics like price-per-gram and SKU profitability score helped derive meaningful value beyond basic statistics.
 
-This project highlights my ability to:
-- Write clean SQL for data transformation and querying.
-- Extract and communicate business insights from messy, real-world data.
-- Structure an end-to-end analysis project for practical decision-making impact.
-
-It reflects both technical skills and analytical thinking—essential for data-driven roles in e-commerce, FMCG, or retail analytics.
