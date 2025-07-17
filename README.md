@@ -73,7 +73,7 @@ CREATE TABLE zepto (
   outOfStock BOOLEAN,
   quantity INTEGER
 );
-
+```
 ---
 
 ### 2️⃣ Data Import
@@ -88,7 +88,7 @@ CREATE TABLE zepto (
             discountedSellingPrice,weightInGms,outOfStock,quantity)
 FROM 'data/zepto_v2.csv'
 WITH (FORMAT csv, HEADER true, DELIMITER ',', QUOTE '"', ENCODING 'UTF8');
-
+```
 ---
 ### 🔍 Data Exploration
 
